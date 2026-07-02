@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Mehrab
+# 🚀 ZeD
 
 ### AI Engineer • Full-Stack Developer • ML Enthusiast
 
@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-Hey! I'm Mehrab, a passionate developer who loves building **AI-powered applications** and **modern web experiences**. I specialize in creating intelligent systems using cutting-edge language models, full-stack technologies, and machine learning frameworks.
+Hey! I'm ZeD, a passionate developer who loves building **AI-powered applications** and **modern web experiences**. I specialize in creating intelligent systems using cutting-edge language models, full-stack technologies, and machine learning frameworks.
 
 **What I do:**
 - 🤖 Build AI applications with GPT-4, Claude, and open-source LLMs
